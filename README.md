@@ -18,3 +18,10 @@ export PATH="$PATH:/opt/yarn-1.22.4/bin"
 sudo yarn create react-app confusion
 
 yarn start
+
+## Configure React Project with reactstrap
+
+yarn add bootstrap@4.0.0
+yarn add reactstrap@5.0.0
+yarn add react-popper@0.9.2
+
